@@ -1,0 +1,9 @@
+.infoicons{
+    display:flex;
+    margin: 5px 10px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    width: 90%;
+    
+}
